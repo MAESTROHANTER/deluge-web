@@ -22,6 +22,5 @@ Then connect to http://serverip:8112 and use first pass "deluge"
 
 3. To start deluge service after reboot
 ```
-deluged
-deluge-web
+[Ubuntu Init Script](https://dev.deluge-torrent.org/wiki/UserGuide/Service/DebianUbuntuInitd/)
 ```
